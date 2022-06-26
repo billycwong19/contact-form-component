@@ -13,7 +13,7 @@
 
 <img src="./public/contactformscreenshot.png" height='200'>
 
-### this component will allow someone to fill out the contact form on your portfolio or website and send an emaily directly to you. the email will contain a name, email, and message. for more information visit https://www.emailjs.com. 
+### this component will allow someone to fill out the contact form on your portfolio or website and send an email directly to you. the email will contain a name, email, and message. for more information visit https://www.emailjs.com. 
 
 #
 
